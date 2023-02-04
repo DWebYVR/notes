@@ -2,7 +2,7 @@
 title: Using Luma to Run Events
 ---
 
-[Luma](https://lu.ma) is a simple event organizing and registration tool. We use it for events, as well as to manage the collaborative [DWeb YVR Calendar](../calendar/).
+[Luma](https://lu.ma) is a simple event organizing and registration tool. We use it for events, as well as to manage the collaborative [[calendar|DWeb YVR Calendar]].
 
 ## Custom Questions
 
