@@ -2,12 +2,13 @@
 title: Feb 2023 Flash Talks & Tea
 event-date: 2023-02-15
 event-link: https://lu.ma/89c4ce58
+type: event
 ---
 
 <iframe
   src="https://lu.ma/embed-checkout/evt-BwFDxi3MEnabDpE"
-  width="600"
-  height="450"
+  width="800"
+  height="800"
   frameborder="0"
   style="border: 1px solid #bfcbda88; border-radius: 4px;"
   allowfullscreen=""
@@ -19,7 +20,7 @@ event-link: https://lu.ma/89c4ce58
 
 Join us for an evening of socializing and networking with other digital creators and technologists in Vancouver. This is a budding network event series coalescing around the decentralized web. You'll want to come to meet others with similar interests, discuss projects, and spark collaboration. Whether you're new to the scene or a veteran, all are welcome.
 
-​The night is hosted at The Permanent Library Limited, a new co-working and event space in Gastown with a penchant for all things decentralized web, and home to the Internet Archive Canada which sponsors the space for our events.
+​The night is hosted at [[The Permanent]], a new co-working and event space in Gastown with a penchant for all things decentralized web, and home to the [[Internet Archive Canada]] which sponsors the space for our events.
 
 Enjoy some snacks, hot tea and a cash bar.
 

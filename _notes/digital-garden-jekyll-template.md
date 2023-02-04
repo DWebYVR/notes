@@ -2,9 +2,11 @@
 title: Digital Garden Jekyll Template
 ---
 
-> This was originally the README for the template used to start this site. You can find the template repo here: https://github.com/maximevaillancourt/digital-garden-jekyll-template
+> This was originally the README for the template used to start this site. You can find the template repo here: <https://github.com/maximevaillancourt/digital-garden-jekyll-template>
 >
 > The [[Your first seed]] note is also kept as an example of the different ways to link notes, various config options, Markdown syntax, and more.
+>
+> More details about [[colophon|this site »]]
 
 # Digital garden Jekyll template
 

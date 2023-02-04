@@ -27,6 +27,7 @@ time {
   display: block;
   color: $color-subtext;
   margin: 0.5em 0 1em;
+  font-size: 0.9rem;
 }
 
 footer {
@@ -75,6 +76,10 @@ h6 {
   padding-bottom: 0;
 }
 
+h1 {
+  padding-bottom: 15px;
+}
+
 a {
   transition: background 300ms;
   padding: 0 0.1em;
@@ -97,6 +102,11 @@ a {
   &.reversefootnote:after {
     content: "";
   }
+}
+
+div.footnotes {
+  font-size: 0.8em;
+  border-top: 1px solid $color-border
 }
 
 *:focus {

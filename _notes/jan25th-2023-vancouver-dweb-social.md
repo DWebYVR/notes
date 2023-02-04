@@ -2,6 +2,7 @@
 title: Vancouver DWeb Social, January 2023
 event-date: 2023-01-25
 event-link: https://lu.ma/van-dweb-social
+type: event
 ---
 
 Did you know that the Internet Archive now has a Canadian edition? And that they have an amazing space in downtown Vancouver that supports everything from servers to socials?
