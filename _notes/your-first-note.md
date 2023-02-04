@@ -40,16 +40,6 @@ You may include a tweet URL on its own line (like below), and it would be replac
 
 https://twitter.com/jack/status/20
 
-### Media embedding
-
-You may embed media files within a note using HTML5 media tags. Here's an example for an audio file:
-
-"Jazzy Frenchy" by Benjamin Tissot from bensound.com
-<audio controls>
-  <source src="{{ site.baseurl }}/assets/jazzyfrenchy.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
 ### Site configuration
 
 Some behavior is configurable by tweaking the `_config.yml` file.
@@ -87,10 +77,6 @@ Lists work as expected:
 If you'd like to quote other people, consider using quote blocks:
 
 > Lorem ipsum dolor sit amet
-
-And of course, images look great:
-
-<img src="{{ site.baseurl }}/assets/image.jpg"/>
 
 You can also ==highlight some content== by wrapping it with `==`.
 
