@@ -8,6 +8,7 @@ Boris Mann is the founder of [Fission](https://fission.codes), building an edge 
 Contact
 * Twitter [@bmann](https://twitter.com/bmann)
 * Mastodon [@bmann@social.coop](https://social.coop/@bmann)
+* Linkedin [@boris](https://linkedin.com/in/boris)
 * [Digital Garden Notes](https://bmannconsulting.com)
 * [Personal blog](https://blog.bmannconsulting.com)
 * [Foodwiki](https://foodwiki.bmann.ca)
