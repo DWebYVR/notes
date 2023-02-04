@@ -5,6 +5,8 @@ event-link: https://lu.ma/van-dweb-social
 type: event
 ---
 
+Original [event registration](https://lu.ma/van-dweb-social).
+
 Did you know that the Internet Archive now has a Canadian edition? And that they have an amazing space in downtown Vancouver that supports everything from servers to socials?
 
 ​Join the Fission team & Internet Archive Canada at The Permanent for an evening of presentations, lightning talks, and the first of hopefully many sociotechnical conversations connecting the Decentralized Web in Vancouver and beyond.
@@ -33,24 +35,24 @@ We’ll wrap up with [[Community Announcements]] and then adjourn for refreshmen
 
 ### Check My Ads Overview, Claire Atkin
 
-https://www.loom.com/share/30d7828e427f4a4f80a5549ff41b4ac9
+<https://www.loom.com/share/30d7828e427f4a4f80a5549ff41b4ac9>
 
-https://checkmyads.org/
+<https://checkmyads.org/>
 
 ### The Big World of the Fediverse, Blaine Cook
 
-https://www.loom.com/share/13489eb952bb493b9d79aded54b5a611
+<https://www.loom.com/share/13489eb952bb493b9d79aded54b5a611>
 
 More on the [Name Name System (NNS)](https://talk.fission.codes/t/nns-the-name-name-system/3684)
 
 ## Community Announcements
 
-* Botch, Fleek Network https://fleek.network
-* David L, FeathersJS https://feathersjs.com/
-* Gary L, Decentralized Dance Party https://theddp.com/
-* Jai D, Tim Bray, Alka T,  CoSocial https://cosocial.info (and @boris too!)
-* Kris C, let's do OSS Hackathons! https://twitter.com/cqwww
-* Mark M, [Mammoth Mastodon app](https://mastodon.social/@JPEGuin/109756759819116790) and associated server https://moth.social/
-* Pablo D, Tell and Show, community-owned machine learning http://tellandshow.org/
+* Botch, Fleek Network <https://fleek.network>
+* David L, FeathersJS <https://feathersjs.com/>
+* Gary L, Decentralized Dance Party <https://theddp.com/>
+* Jai D, Tim Bray, Alka T,  CoSocial <https://cosocial.info> (and [[bmann]] too!)
+* Kris C, let's do OSS Hackathons! <https://twitter.com/cqwww>
+* Mark M, [Mammoth Mastodon app](https://mastodon.social/@JPEGuin/109756759819116790) and associated server <https://moth.social/>
+* Pablo D, Tell and Show, community-owned machine learning <http://tellandshow.org/>
 
-Boris Intro Slides: [2023-01-15 DWebYVR Intro.pdf|attachment](https://bafybeiaeff4zfbwl3nijmpqv3qm43zeh7d764vqaidtwa5ass7g3sslt24.ipfs.w3s.link/?filename=2023-01-15+DWebYVR+Intro.pdf)
+Boris Intro Slides: [2023-01-15 DWebYVR Intro.pdf](https://bafybeiaeff4zfbwl3nijmpqv3qm43zeh7d764vqaidtwa5ass7g3sslt24.ipfs.w3s.link/?filename=2023-01-15+DWebYVR+Intro.pdf)
