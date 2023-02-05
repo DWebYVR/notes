@@ -6,6 +6,6 @@ This is a [Jekyll](https://jekyllrb.com/) powered website, built using the [[Dig
 
 The [Littlefoot JS library](https://github.com/goblindegook/littlefoot) powers inline footnotes.
 
-This site is built and hosted using [[Github]].
+This site is built and hosted using [[Github]]. For every commit, a Github Action runs and builds a Jekyll site, and then publishes to Github Pages. The `dwebyvr.org` domain is hosted on [[Google Domains]].
 
 Issues related to the website can be [submitted on GitHub](https://github.com/DWebYVR/notes/issues).
