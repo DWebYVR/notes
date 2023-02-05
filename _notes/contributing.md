@@ -8,6 +8,10 @@ We see the DWeb YVR community as a platform to connect with others who share int
 
 Some examples of ways to take action:
 
+### Share and contribute DWeb content on social.
+
+See our [[Contact]] page for all our social channels. Help spread posts tagged with #DWebYVR, and tag your own content.
+
 ### Start a Discussion
 
 Have an idea you'd like feedback on, looking for collaborators, or want to promote? Kick off a [discussion on Github](https://github.com/orgs/DWebYVR/discussions).
