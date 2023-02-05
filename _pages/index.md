@@ -9,7 +9,7 @@ permalink: /
 
 ## Next Event
 
-[[Feb 2023 Flash Talks & Tea]] <a
+[[Feb 15 2023 Flash Talks & Tea @ The Permanent - doors 6:30pm]] <a
   href="https://lu.ma/event/evt-BwFDxi3MEnabDpE"
   class="luma-checkout--button"
   data-luma-action="checkout"
