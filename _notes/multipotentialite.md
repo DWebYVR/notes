@@ -1,6 +1,5 @@
 ---
 title: multipotentialite
-type: definition
 ---
 
 A multipotentialite is an individual whose interests and skills span multiple fields or areas, rather than being strong in just one. 
