@@ -23,7 +23,7 @@ permalink: /
 
 ## Explore
 
-* Visit the [Calendar](../notes/calendar/){:.internal-link} to browse all upcoming events, and submit your own to share!
+* Visit the [Calendar](/calendar/){:.internal-link} to browse all upcoming events, and submit your own to share!
 * [Explore the notes](/explore/){:.internal-link} and documentation that make up the the site.
 
 <style>
