@@ -4,7 +4,7 @@ title: How to Contribute
 
 We see the DWeb YVR community as a platform to connect with others who share interest in [[DWeb Principles]].
 
-## Examples
+## Example Contributions
 
 Some examples of ways to take action:
 

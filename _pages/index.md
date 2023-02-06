@@ -9,26 +9,22 @@ permalink: /
 
 ## Next Event
 
-[[Feb 15 2023 Flash Talks & Tea @ The Permanent - doors 6:30pm]] <a
+[[Feb 2023 Flash Talks & Tea]] @ The Permanent<a
   href="https://lu.ma/event/evt-BwFDxi3MEnabDpE"
   class="luma-checkout--button"
+  style="margin-left: 15px;"
   data-luma-action="checkout"
   data-luma-event-id="evt-BwFDxi3MEnabDpE">Register for Event</a>
+* Feb 15th, 2023
+* Doors at 6:30pm
+* [Register via Luma](https://lu.ma/89c4ce58)
 
 <script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
 
-Visit the [Calendar](../notes/calendar/){:.internal-link} to browse all upcoming events, and submit your own to share!
+## Explore
 
-## Recently updated notes
-
-<ul>
-  {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
-  {% for note in recent_notes limit: 5 %}
-    <li>
-      {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+* Visit the [Calendar](../notes/calendar/){:.internal-link} to browse all upcoming events, and submit your own to share!
+* [Explore the notes](/explore/){:.internal-link} and documentation that make up the the site.
 
 <style>
   .wrapper {

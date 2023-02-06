@@ -26,6 +26,8 @@ Enjoy some snacks, hot tea and a cash bar.
 
 ​The night is unconference-style, featuring short talks by YOU! When you register, indicate whether you'd like to take 5-10 minutes to share an initiative, invite collaboration, or put out a call to action for the dweb community. There are 5 speaking slots, so get your name in quick!
 
-​The evening will kick off with host [[Emily McGill]] of Living Systems Network talking about the launch, trajectory and potential of the DWeb Vancouver node, and how to get involved.
-
 ​Doors at 6:30, talks roughly 6:45-7:45, social time to 8:30.
+
+## Talks
+
+​The evening will kick off with host [[Emily McGill]] of Living Systems Network talking about the launch, trajectory and potential of the DWeb Vancouver node, and how to get involved.
