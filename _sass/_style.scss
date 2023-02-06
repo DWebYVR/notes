@@ -104,6 +104,17 @@ a {
   }
 }
 
+content a.internal-link:before {
+  content: "[["
+}
+
+content a.internal-link:after {
+  content: "]]";
+  color: $color-text;
+  top: auto;
+  font-size: 1rem;
+}
+
 div.footnotes {
   font-size: 0.8em;
   border-top: 1px solid $color-border
