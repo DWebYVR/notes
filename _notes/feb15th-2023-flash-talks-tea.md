@@ -30,4 +30,12 @@ Enjoy some snacks, hot tea and a cash bar.
 
 ## Talks
 
-​The evening will kick off with host [[Emily McGill]] of Living Systems Network talking about the launch, trajectory and potential of the DWeb Vancouver node, and how to get involved.
+1) The evening will kick off with host [[Emily McGill]] of Living Systems Network talking about the launch, trajectory and potential of the DWeb Vancouver node, and how to get involved.
+
+2) [[Ryan Betts]] from [[Fission]] presenting the [Webnative SDK](https://webnative.dev): passwordless logins with DIDs, secure encrypted data on top of [[IPFS]] for front end devs to build apps with user owned data.
+
+3)
+
+4)
+
+5) You! [Register and fill out the questions if you want to present](https://lu.ma/89c4ce58)
