@@ -8,6 +8,7 @@ A list of Vancouver regional organizations, projects, and people that support [[
 * [[Fission]]
 * [[Living Systems Network]]
 * [[Holochain]]
+* [[Solana]]
 
 _TODO: Work in Progress page! probably good to make this a programmatic page and get basic name, link, logo, description as a pull request_
 
