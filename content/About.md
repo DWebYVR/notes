@@ -16,7 +16,7 @@ We are the Vancouver regional DWeb Node. Anyone can [apply to run a node](https:
 
 ## Conveners
 
-You can see the current [[Conveners]] who choose to be publicly listed. This is a volunteer organization which collaborates on a variety of projects.
+You can see the current [Conveners](/tags/Convener) who choose to be publicly listed. This is a volunteer organization which collaborates on a variety of projects.
 
 Our current focus is on booting up DWeb activities in Vancouver. We do this by managing a communiy [[Calendar]] and taking turns in organizing monthly meetings at [[The Permanent]].
 
