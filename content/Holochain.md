@@ -2,6 +2,7 @@
 title: Holochain
 tags:
 - Organization
+- Protocol
 ---
 
 [Holochain](https://holochain.org) is a post-blockchain decentralized platform for distributed applications
