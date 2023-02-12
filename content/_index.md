@@ -30,10 +30,3 @@ permalink: /
   * Also check out a list of [past events](/tags/Event)
 * See a list of [conveners](/tags/Convener),
 * and [local Vancouver organizations](/tags/Organization)
-
-
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
