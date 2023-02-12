@@ -1,0 +1,28 @@
+name: DWeb YVR Team 
+enableToc: false
+openToc: false
+enableLinkPreview: true
+enableLatex: true
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
+enableCallouts: true
+enableSPA: true
+enableFooter: true
+enableContextualBacklinks: true
+enableRecentNotes: false
+enableGitHubEdit: true
+enableMermaid: true
+GitHubLink: https://github.com/DWebYVR/notes/tree/hugo/content
+search:
+  enableSemanticSearch: false
+  operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+  operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
+description:
+  The DWeb Community is an initiative guided by the Internet Archive. This is the Vancouver region DWeb Node.
+page_title:
+  "DWeb Vancouver"
+links:
+  - link_name: Twitter
+    link: https://twitter.com/_jzhao
+  - link_name: GitHub
+    link: https://github.com/jackyzha0
