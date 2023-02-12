@@ -27,6 +27,6 @@ permalink: /
 ## Explore
 
 * Visit the [[Calendar]] to browse all upcoming events, and submit your own to share!
-  * Also check out a list of [past events](/tags/Event)
-* See a list of [conveners](/tags/Convener),
-* and [local Vancouver organizations](/tags/Organization)
+* See the list of all [events](/tags/Event)
+* Add a [person page](/tags/Person) for yourself
+* Check out local [[Organizations]], Projects, and Protocols and add your own
