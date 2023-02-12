@@ -22,7 +22,9 @@ description:
 page_title:
   "DWeb Vancouver"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: GitHub
-    link: https://github.com/jackyzha0
+  - link_name: About
+    link: https://dwebyvr.org/About 
+  - link_name: Contact
+    link: https://dwebyvr.org/contact
+  - link_name: Calendar
+    link: https://dwebyvr.org/Calendar
