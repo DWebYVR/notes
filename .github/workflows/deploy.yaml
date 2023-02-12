@@ -36,4 +36,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: main  # deploying branch
-          cname: quartz.jzhao.xyz
+          cname: dwebyvr.org

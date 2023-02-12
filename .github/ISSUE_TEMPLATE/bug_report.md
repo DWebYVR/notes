@@ -1,11 +1,12 @@
 ---
 name: Bug report
-about: Something about Quartz isn't working the way you expect
+about: Something about the notes aren't working the way you expect
 title: ''
 labels: bug
 assignees: ''
-
 ---
+
+<!-- If you're requesting a new feature or suggesting an idea, please use the "Discussions" tab instead of opening a new issue. Thank you! -->
 
 **Describe the bug**
 A clear and concise description of what the bug is.
