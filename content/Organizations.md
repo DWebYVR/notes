@@ -1,10 +1,17 @@
-A list of Vancouver regional organizations, projects, and people that support [[DWeb Principles]].
+---
+title: Local Vancouver Organizations
+---
+
+A list of Vancouver regional organizations, projects, and protocols that support [[DWeb Principles]].
 
 * [[Internet Archive Canada]] / [[The Permanent]]
 * [[Fission]]
 * [[Living Systems Network]]
 * [[Holochain]]
 * [[Solana]]
+* [[DCTRL]]
+
+Feel free to list [People](/tags/Person)
 
 _TODO: List clear instructions on adding yourself via issue, PR, or other method_
 

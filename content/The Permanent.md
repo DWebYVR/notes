@@ -2,6 +2,7 @@
 title: The Permanent
 tags:
 - Organization
+- Venue
 ---
 
 The physical headquarters of [[Internet Archive Canada]]. 330 West Pender Street in Downtown Vancouver, just a block from the DCTRL hackerspace.

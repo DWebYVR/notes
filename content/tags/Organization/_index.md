@@ -1,4 +1,4 @@
 ---
-title: Local Vancouver Organizations
-description: "A list of Vancouver regional organizations, projects, and people that support DWeb Principles"
+title: Organization
+description: "Vancouver regional organizations, projects, and protocols that support DWeb Principles"
 ---
