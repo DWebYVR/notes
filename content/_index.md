@@ -26,7 +26,9 @@ permalink: /
 
 ## Explore
 
-* Visit the [[Calendar]] to browse all upcoming events, and submit your own to share!
+This website is organized as a [[Digital Garden]] -- an organic collection of notes that link to each other.
+
+* Visit the [[calendar]] to browse all upcoming events, and submit your own to share!
 * See the list of all [events](/tags/Event)
 * Add a [person page](/tags/Person) for yourself
 * Check out local [[Organizations]], Projects, and Protocols and add your own
