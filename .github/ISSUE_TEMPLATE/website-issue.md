@@ -1,6 +1,6 @@
 ---
 name: Website Issue
-about: Something's wrong, but it's not a bug with the template
+about: There's an error on the website or something is missing that I want to add
 title: ''
 labels: 'website'
 assignees: ''
