@@ -1,4 +1,4 @@
-## Follow up from Vancouver DWeb %// Insert Event Name 
+## Follow up from (Insert Event Name) 
 
 * Thanks everyone for coming to the (insert event description) at (location e.g. The Permanent).
 
