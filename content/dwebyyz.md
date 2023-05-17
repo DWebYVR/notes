@@ -3,6 +3,7 @@ title: DWeb YYZ Toronto
 tags:
 - Toronto
 - Organization
+- DWeb Node
 ---
 
 [[Boris Mann]] kicked off a DWeb Toronto event on [Feb 16th, 2023, at Halo Brewery](https://lu.ma/qpfnxd78).
