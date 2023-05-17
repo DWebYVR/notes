@@ -1,6 +1,7 @@
 ---
-title: Person/Organization/Project Template
+title: Person/Organization/Project Template (add your name here)
 tags:
+(add any relevant/applicable tags here to make it easier for people to find you and your work)
 - Convener
 - Person
 - Project
