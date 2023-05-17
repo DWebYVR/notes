@@ -13,6 +13,6 @@ A list of Vancouver regional organizations, projects, and protocols that support
 
 Feel free to list [People](/tags/Person)
 
-_TODO: List clear instructions on adding yourself via issue, PR, or other method_
+#todo _List clear instructions on adding yourself via issue, PR, or other method_
 
-_TODO: Work in Progress page! probably good to make this a programmatic page and get basic name, link, logo, description as a pull request_
+#todo  _Work in Progress page! probably good to make this a programmatic page and get basic name, link, logo, description as a pull request_

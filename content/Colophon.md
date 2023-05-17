@@ -6,7 +6,7 @@ title: Colophon
 
 Implemented by [[Jacky Zhao]] on Feb 11th, 2023.
 
-This is a [Hugo](https://gohugo.io/) powered website, built using [[Quartz]].
+This is a [Hugo](https://gohugo.io/) powered website, built using [[Quartz]] and designed to be managed with [[Obsidian]].
 
 From the features of that template, [[wikilinks]] -- double square brackets around words -- can be used to easily link between notes, and show [[backlnks]] -- which notes link to each other -- in the sidebar. 
 
@@ -16,9 +16,13 @@ The `dwebyvr.org` domain is hosted on [[Google Domains]].
 
 Issues related to the website can be [submitted on GitHub](https://github.com/DWebYVR/notes/issues).
 
-## Early Feb 2023
+## Earlier Versions
 
-This is a [Jekyll](https://jekyllrb.com/) powered website, built using the [[Digital Garden Jekyll Template]]. From the features of that template, [[wikilinks]] -- double square brackets around words -- can be used to easily link between notes, and show which notes link to each other in the sidebar.
+### Feb 2023
+
+Built by [[Boris Mann]] as a [Jekyll](https://jekyllrb.com/) powered website, built using the [[Digital Garden Jekyll Template]].
+
+From the features of that template, [[wikilinks]] -- double square brackets around words -- can be used to easily link between notes, and show which notes link to each other in the sidebar.
 
 The [Littlefoot JS library](https://github.com/goblindegook/littlefoot) powers inline footnotes.
 

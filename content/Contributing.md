@@ -20,6 +20,8 @@ Have an idea you'd like feedback on, looking for collaborators, or want to promo
 
 DWeb resources, information about [[Protocols]], curating [[Organizations]], improving documentation, or similar content is all welcome. You can [[explore|explore the graph of notes »]]
 
+Add a [person page](/tags/Person) for yourself with links to your profiles and projects.
+
 ### Improve the design and features of the website
 
 Want to improve the design or features of the website? Yes please!

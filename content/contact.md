@@ -16,4 +16,4 @@ You can learn more about the current [[Conveners]].
 
 * Subscribe to the [#dwebyvr hashtag](https://social.coop/tags/DWebYVR) on [[Mastodon]], including [via RSS](https://social.coop/tags/DWebYVR.rss)[^socialcoop]
 
-[^socialcoop]: Both links lead to the Social.Coop Mastodon server, where [[Boris Mann]] has his main account. You should be able to search for the hashtag and follow it on your own server as well.
+[^socialcoop]: Both links lead to the Social.Coop Mastodon server. You should be able to search for the hashtag and follow it on your own server as well.

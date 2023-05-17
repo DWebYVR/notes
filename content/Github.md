@@ -1,5 +1,5 @@
 ---
-title: Github
+title: DWebYVR Github
 ---
 
 We have a Github organization at <https://github.com/DWebYVR>

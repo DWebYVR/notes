@@ -22,5 +22,5 @@ Our current focus is on booting up DWeb activities in Vancouver. We do this by m
 
 We welcome additional people, protocols, and projects to get involved and organize more events and activities, as we build shared platforms.
 
-[[contact|Get in touch]] to participate, all are welcome.
+[[Contact|Get in touch]] to participate, all are welcome.
 
