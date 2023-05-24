@@ -1,5 +1,8 @@
 ---
 title: Using Luma to Run Events
+tags:
+- Tool
+- SaaS
 ---
 
 [Luma](https://lu.ma) is a simple event organizing and registration tool. We use it for events, as well as to manage the collaborative [[calendar|DWeb YVR Calendar]].

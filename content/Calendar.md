@@ -20,7 +20,7 @@ You can subscribe by email to get updates of new events.
 
 While [[Luma]] is used to manage the calendar, the events can be run using any system[^eventsites]. You will need to at least sign up for a basic, free Luma account in order to submit an event.
 
-Or, tell us about your event by [[contact|getting in touch]].
+Or, tell us about your event by [[Contact|getting in touch]].
 
 [^eventsites]: Feel free to use your own Eventbrite, Meetup.com, or any other event system. We’ll just include a link to your registration page.
 

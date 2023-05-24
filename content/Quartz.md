@@ -3,6 +3,7 @@ title: Quartz
 tags:
 - Digital Garden
 - Hugo
+- Project
 ---
 A Hugo-powered digital garden framework created by [[Jacky Zhao]] https://quartz.jzhao.xyz/
 

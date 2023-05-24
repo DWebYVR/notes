@@ -1,8 +1,8 @@
 ---
-title: Local Vancouver Organizations
+title: Organizations
 ---
 
-A list of Vancouver regional organizations, projects, and protocols that support [[DWeb Principles]].
+A list of organizations, projects, and protocols that support [[DWeb Principles]] and/or have regional ties to Vancouver
 
 * [[Internet Archive Canada]] / [[The Permanent]]
 * [[Fission]]
@@ -10,9 +10,12 @@ A list of Vancouver regional organizations, projects, and protocols that support
 * [[Holochain]]
 * [[Solana]]
 * [[DCTRL]]
+* [[Tomo Spaces]]
+* [[Dark Matter Labs]]
+* [[Red Gate Arts Society]]
 
-Feel free to list [People](/tags/Person)
+Feel free to list [People](/tags/Person) as well on your Organization page.
 
-_TODO: List clear instructions on adding yourself via issue, PR, or other method_
+#todo _List clear instructions on adding yourself via issue, PR, or other method_
 
-_TODO: Work in Progress page! probably good to make this a programmatic page and get basic name, link, logo, description as a pull request_
+#todo  _Work in Progress page! probably good to make this a programmatic page and get basic name, link, logo, description as a pull request_

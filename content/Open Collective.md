@@ -1,5 +1,10 @@
 ---
 title: Open Collective
+tags:
+- Tool
+- Finance
+- Organization
+- Open Source
 ---
 [Open Collective](https://opencollective.com) is:
 

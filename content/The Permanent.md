@@ -13,4 +13,8 @@ The physical headquarters of [[Internet Archive Canada]]. 330 West Pender Street
 >
 > <https://www.thepermanent.ca/the-space>
 
-![Historic photo as Bank of Canada](./thepermanent_historic.jpeg)
+![Historic photo as Bank of Canada](thepermanent_historic.jpeg)
+
+## Availability
+
+Use the form to check for availability. 

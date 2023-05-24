@@ -1,7 +1,8 @@
 ---
 title: Wesley Finck
 tags:
-- Holochain App Developer
+- Holochain
+- Developer
 - Person
 ---
 
