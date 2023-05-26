@@ -10,4 +10,4 @@ tags:
 
 People
 * Katie Davis-Sayles
-* Jacon Sayles
+* Jacob Sayles, on the board of [[Coworking BC]]
