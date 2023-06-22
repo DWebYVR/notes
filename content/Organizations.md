@@ -15,6 +15,7 @@ A list of organizations, projects, and protocols that support [[DWeb Principles]
 * [[Red Gate Arts Society]]
 * [[Cascadia Collaborative Design]]
 * [[Coworking BC]]
+* [[CoSocial]]
 
 Feel free to list [People](/tags/Person) as well on your Organization page.
 
