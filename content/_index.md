@@ -7,7 +7,7 @@ permalink: /
 
 ## Next Event
 
-Planning a [[Bluesky]] meetup in May or early June
+Come to the [[June 2023 Garden Gathering]], [register »](https://lu.ma/pjdlgvpi)
 
 Planning a [[Hackathon July 2023]], [discuss](https://github.com/orgs/DWebYVR/discussions/30)
 

@@ -6,15 +6,7 @@ We use [[Luma]] to manage a shared collaborative calendar for DWeb events in Van
 
 You can subscribe by email to get updates of new events. 
 
-<iframe
-  src="https://lu.ma/dwebyvr"
-  width="95%"
-  height="800"
-  frameborder="0"
-  allowfullscreen=""
-  aria-hidden="false"
-  tabindex="0"
-></iframe>
+<iframe src="https://lu.ma/embed/calendar/cal-7iVMZ4JmmJwQtYl/events" width="600" height="800" frameborder="0" style="border: 1px solid #bfcbda88; border-radius: 4px;" allowfullscreen="" aria-hidden="false" tabindex="0" ></iframe>
 
 ## Adding Events to the Calendar
 
