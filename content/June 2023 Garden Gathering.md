@@ -10,6 +10,8 @@ tags:
 
 ​The DWebYVR [[Conveners]] are meeting in the garden. Get a mini tour of the garden, and talk about what our next plans are on what to work on.
 
+Learn more 
+
 ​Please add to the agenda on Github [https://github.com/orgs/DWebYVR/discussions/34](https://github.com/orgs/DWebYVR/discussions/34)
 
 ## Notes

@@ -11,3 +11,7 @@ Contact
 * Twitter [@livingsystemnet](https://twitter.com/livingsystemnet)
 * Instagram [@livingsystemsnetwork](https://www.instagram.com/livingsystemsnetwork)
 * Linkedin [@emily-mcgill](https://www.linkedin.com/in/emily-mcgill)
+
+## Connections
+
+[[CoFoodVancouver]]
