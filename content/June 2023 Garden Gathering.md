@@ -33,7 +33,7 @@ Maybe some at The Permanent could be during the day? Like the [Cowork & Coffee](
 > 
 > Is there a language or technology you always wanted to explore? Only have an hour before you have to run for your morning standup? Just need to get some work done? No matter the language, level or how much time you have to spare - show up!
 
-Maybe David L would be interested. 
+Maybe David L would be interested. [[DWeb Drop In]] page created for further planning.
 
 Rithika
 - needs to make a people page ;)
@@ -41,7 +41,7 @@ Rithika
 
 Boris connect Rithika to NYC Rust people - b5, Claudia
 
-Soft date for garden dinner July 30th [[DWeb in the Garden July 2023]]
+Soft date for garden dinner July 30th. Created [[Community Garden Dinners]] for info and registration.
 
 Add links here for
 * [[Wildcard People]]

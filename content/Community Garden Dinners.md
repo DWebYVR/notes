@@ -1,5 +1,5 @@
 ---
-title: Hackday September 2023
+title: Community Garden Dinners
 tags:
 - Event
 - Food
