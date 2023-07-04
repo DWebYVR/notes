@@ -5,12 +5,12 @@ id: home
 permalink: /
 ---
 
-## Next Event
+## Next Events  & Planning
 
-Come to the [[June 2023 Garden Gathering]], [register »](https://lu.ma/pjdlgvpi)
-
-Planning a [[Hackathon July 2023]], [discuss](https://github.com/orgs/DWebYVR/discussions/30)
-
+Planning
+* [[Hackday September 2023]]
+* [[Community Garden Dinners]] at [[CoFoodVancouver Garden]]
+* [[DWeb Drop In]] at [[The Permanent]]
 
 <!-- uncomment and enter in Luma event id -->
 <!--
@@ -32,3 +32,5 @@ This website is organized as a [[Digital Garden]] -- an organic collection of no
 * See the list of all [events](/tags/Event)
 * Check out locally relevant [[Organizations]], Projects, and [[Protocols]] and add your own
 * Look at [[Contributing|how to contribute]]
+
+Want to jump right in? Join the [[Signal]] general [group chat](https://signal.group/#CjQKIODy2EEMBP_tF0YP4t3-WzGRqaHCDChDnldfEl8A29OmEhAuVXCHCC91O7p2OIdqE5OC)

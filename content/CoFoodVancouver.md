@@ -19,10 +19,12 @@ tags:
 
 ### coFood Collaborative Garden Project
 
-At East 4th and Scotia just off main
-
 https://cofoodvancouver.com/projects/
 
-## People
+## Venue
 
-[[Emily McGill]]
+[[CoFoodVancouver Garden]] is a venue that we can plan gatherings at!
+
+## People & Orgs
+
+[[Emily McGill]], [[Living Systems Network]]

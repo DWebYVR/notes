@@ -16,7 +16,7 @@ tags:
 
 Original Agenda
 
-- [[Hackathon July 2023]] - Timing isn’t going to work; let’s do a hack day in September when weather is less nice out. See if [[Wesley Finck]] wants to run with this
+- [[Hackday September 2023]] - Timing isn’t going to work; let’s do a hack day in September when weather is less nice out. See if [[Wesley Finck]] wants to run with this
 - [[Stolon Mesh]] - let’s get the garden as part of the mesh? Currently has [[Living Systems Network]] Wi-Fi name; get details from [[Emily McGill]] on the system
 - [[CoSocial]] - [[Boris Mann]] wants to do some Fediverse presentations eventually 
 - [[DWebYVR Lemmy Community]] - didn’t talk about this at all! We don’t have a very social media forward set of folks yet
