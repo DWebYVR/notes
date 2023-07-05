@@ -2,7 +2,7 @@
 title: Tomo Spaces
 tags:
 - Organization
-- Cooperatives
+- Coop
 - Housing
 ---
 

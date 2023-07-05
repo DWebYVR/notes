@@ -43,7 +43,7 @@ Boris connect Rithika to NYC Rust people - b5, Claudia
 
 Soft date for garden dinner July 30th. Created [[Community Garden Dinners]] for info and registration.
 
-Add links here for
+Other resources, venues, and events mentioned:
 * [[Wildcard People]]
 * [[Notional Space]]
 * [[Art & Craft Social]]

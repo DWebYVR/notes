@@ -5,6 +5,7 @@ tags:
 - Organization
 - DWeb Node
 ---
+There is an [August 30th, 2023 event](https://lu.ma/ckuvu4l9) hosted at [[1RG]]
 
 [[Boris Mann]] kicked off a DWeb Toronto event on [Feb 16th, 2023, at Halo Brewery](https://lu.ma/qpfnxd78).
 
