@@ -10,7 +10,7 @@ Inspired by the Cowork & Coffee, we're planning on  weekly/every other week /mon
 Hosts
 * [[Ryan Betts]]
 * [[Boris Mann]]
-* ([get in touch]([[contact]]) / add your name)
+* (get in touch / add your name)
 
 ## Venue
 
