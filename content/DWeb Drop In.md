@@ -7,13 +7,25 @@ tags:
 
 Inspired by the Cowork & Coffee, we're planning on  weekly/every other week /monthly drop in at [[The Permanent]].
 
-Have some chairs and tables and wifi available, and schedule some cowork time on a drop in basis.
-
-Potential hosts
+Hosts
 * [[Ryan Betts]]
 * [[Boris Mann]]
-* (get in touch / add your name)
+* ([get in touch]([[contact]]) / add your name)
 
-To Do
-* Talk to The Permanent about some dates and times
-* Balance morning / afternoon and days of the week
+## Venue
+
+[[The Permanent]] is our venue sponsor. We'll have some chairs and tables and wifi available.
+
+The space is quite large, so you can find a corner for a small meeting or group activity. Let us know when you're registering.
+
+## Register for Drop-In
+
+While it is OK to drop-in last minute, we'd like to know who's coming so we can prepare the space. Please [register](https://lu.ma/dwebyvr-dropin) to let us know you're coming.
+
+You can RSVP for all of the drop-ins, or pick and choose sessions. Small meetings and other group activities are totally fine -- just let us know!
+
+<iframe src="https://lu.ma/embed-checkout/evt-7hN9Y19HjdfE137" width="600" height="800" frameborder="0" style="border: 1px solid #bfcbda88; border-radius: 4px;" allowfullscreen="" aria-hidden="false" tabindex="0" ></iframe>
+
+## Notes
+
+Notes, links, attendees, and things discussed
