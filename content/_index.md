@@ -9,7 +9,7 @@ permalink: /
 
 Planning
 * [[Hackday]]
-* [[Community Garden Dinners]] at [[CoFoodVancouver Garden]]
+* [[Community Garden Dinners]] at [[coFood Collaborative Garden]]
 * [[DWeb Drop In]] at [[The Permanent]]
 
 <!-- uncomment and enter in Luma event id -->
