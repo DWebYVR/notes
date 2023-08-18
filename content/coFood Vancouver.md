@@ -1,5 +1,5 @@
 ---
-title: CoFoodVancouver
+title: coFood Vancouver
 tags:
 - Organization
 - Food
@@ -7,7 +7,7 @@ tags:
   
 > We’re a collective of neighbours and projects doing good work in our food communities.
 
-[CoFoodVancouver](https://cofoodvancouver.com/) wants to hear from you.
+[coFood Vancouver](https://cofoodvancouver.com/) wants to hear from you.
 
 > Whether you’re a grower or harvester of seeds or ideas…
 > 
@@ -23,8 +23,9 @@ https://cofoodvancouver.com/projects/
 
 ## Venue
 
-[[CoFoodVancouver Garden]] is a venue that we can plan gatherings at!
+The [[coFood Collaborative Garden]] at 4th and Scotia in Mt. Pleasant is the urban oasis we're blessed to steward, wwhere we host casual DWeb potlucky gatherings!
 
 ## People & Orgs
 
 [[Emily McGill]], [[Living Systems Network]]
+[[Wesley Finck]], [[Holochain]] & [[Neighbourhoods]]
