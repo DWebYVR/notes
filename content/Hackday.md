@@ -1,5 +1,5 @@
 ---
-title: Hackday September 2023
+title: Hackday (Date TBD)
 tags:
 - Event
 - Hackathon
