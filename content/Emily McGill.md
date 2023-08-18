@@ -14,4 +14,5 @@ Contact
 
 ## Connections
 
-[[CoFoodVancouver]]
+[[coFood Vancouver]] & the [[coFood Collaborative Garden]]
+[[Living Systems Network]] 
