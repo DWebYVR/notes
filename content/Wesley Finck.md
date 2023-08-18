@@ -6,7 +6,7 @@ tags:
 - Person
 ---
 
-Wesley is a Holochain App Developer working to help bring into existence a more humane internet. A few of his interests include:
+Wesley is a [[Holochain]] App Developer working to help bring into existence a more humane internet. A few of his interests include:
 - collective intelligence systems
 - digital civic technologies
 - learning about the metacrisis
@@ -17,3 +17,6 @@ Wesley is a Holochain App Developer working to help bring into existence a more 
 Contact
 * Twitter [@wesleyfinck](https://twitter.com/wesleyfinck)
 * Linkedin [@wesleyfinck](https://www.linkedin.com/in/wesleyfinck/)
+
+Orgs
+* [[Living Systems Network]] member
