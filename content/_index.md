@@ -8,7 +8,7 @@ permalink: /
 ## Next Events  & Planning
 
 Planning
-* [[Hackday September 2023]]
+* [[Hackday]]
 * [[Community Garden Dinners]] at [[CoFoodVancouver Garden]]
 * [[DWeb Drop In]] at [[The Permanent]]
 
@@ -26,7 +26,7 @@ Planning
 
 ## Explore
 
-This website is organized as a [[Digital Garden]] -- an organic collection of notes that link to each other.
+This website is organized as a collaborative, community-fed [[Digital Garden]] -- an organic collection of notes that link to each other.
 
 * Visit the [[calendar]] to browse all upcoming events, and submit your own to share!
 * See the list of all [events](/tags/Event)
