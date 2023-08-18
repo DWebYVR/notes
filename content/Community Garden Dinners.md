@@ -7,7 +7,7 @@ tags:
 
 Evening gatherings in the garden, approximately monthly. We're just getting started so the later months are likely to shift.
 
-Join us in the [[CoFoodVancouver Garden]] between 5pm - 8pm. Bring food to enjoy on your own or bring some to share. Open introductions and sharing of community projects.
+Join us in the [[coFood Collaborative Garden]] between 5pm - 8pm. Bring food to enjoy on your own or bring some to share. Open introductions and sharing of community projects.
 
 Please [register](https://lu.ma/dwebyvr-garden-dinners) to let us know you're coming.
 
@@ -15,9 +15,9 @@ Please [register](https://lu.ma/dwebyvr-garden-dinners) to let us know you're co
 
 ## July 30th, 2023
 
-* [[Emily McGill]] - Tour of the garden, presenting [[CoFoodVancouver]]
+* [[Emily McGill]] - Tour of the garden, presenting [[coFood Vancouver]]
 * [[Boris Mann]] - Community owned social media, presenting the [[CoSocial]] co-op
 
-## August 2023
+## (Upcoming) August 27, 2023
 
-## September 2023
+## (Upcoming) September 24, 2023
