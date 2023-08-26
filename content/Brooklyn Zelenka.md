@@ -1,6 +1,11 @@
 ---
 title: Brookyn Zelenka
 tags:
-{{/* add any relevant/applicable tags here to make it easier for people to find you and your work */}}
 - Person
+- developer
 ---
+Personal notes garden at https://notes.brooklynzelenka.com/
+
+Co-founder and CTO of [[Fission]]
+
+Co-founder of [[Code & Coffee]]
