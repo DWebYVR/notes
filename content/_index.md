@@ -33,4 +33,4 @@ This website is organized as a collaborative, community-fed [[Digital Garden]] -
 * Check out locally relevant [[Organizations]], Projects, and [[Protocols]] and add your own
 * Look at [[Contributing|how to contribute]]
 
-Want to jump right in? Join the [[Signal]] general [group chat](https://signal.group/#CjQKIODy2EEMBP_tF0YP4t3-WzGRqaHCDChDnldfEl8A29OmEhAuVXCHCC91O7p2OIdqE5OC)
+Want to jump right in? Join the [[Signal] general [group chat](https://signal.group/#CjQKIODy2EEMBP_tF0YP4t3-WzGRqaHCDChDnldfEl8A29OmEhAuVXCHCC91O7p2OIdqE5OC)

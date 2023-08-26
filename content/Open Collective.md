@@ -5,6 +5,7 @@ tags:
 - Finance
 - Organization
 - Open Source
+- funding
 ---
 [Open Collective](https://opencollective.com) is:
 

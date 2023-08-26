@@ -10,5 +10,9 @@ The [Stolon Mesh](https://www.stolonmesh.ca) is a project being run by [[221A]] 
 >
 > https://www.stolonmesh.ca/about/
 
+We're working on putting a [[Mesh Node in the Garden]] if you want to get involved.
+
+Also going to talk to [[Internet Archive Canada]] to see if they want to host a [[Permanent Mesh Node]].
+
 
 
