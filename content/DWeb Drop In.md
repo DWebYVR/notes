@@ -38,7 +38,7 @@ Sent some followup notes [via email on Luma](https://lu.ma/ep/ep-8edhtXSB6q)[^1]
 
 We'll be looking to schedule some regular times throughout the fall, maybe Sal will do a [[Fediverse]] evening event — let us know if you want to host something.
 
-[[​Accidental Megastructure ]]is a co-housing focused global Slack. [Use this link to join](https://join.slack.com/share/enQtNTc3MDYyMDUzMTI2OC1lZWRjZDU5MmFjODE2OTQ5OTBiMGQzNTdhOWEyOWE2MzRlYTdiZTVjNjExMmVjY2U0NzJiZjBjOTJlMGUxMTc2) -- [[Boris Mann]] and [[Jacob Sayles]] are on there.
+[[​Accidental Megastructure]] is a co-housing focused global Slack. [Use this link to join](https://join.slack.com/share/enQtNTc3MDYyMDUzMTI2OC1lZWRjZDU5MmFjODE2OTQ5OTBiMGQzNTdhOWEyOWE2MzRlYTdiZTVjNjExMmVjY2U0NzJiZjBjOTJlMGUxMTc2) -- [[Boris Mann]] and [[Jacob Sayles]] are on there.
 
 ​[[VANTEC]] is a local angel investing group having an event early September. [Use code vantec33 for a discount](https://www.vantec.ca/events/vantec-meeting-meet-the-investors).
 

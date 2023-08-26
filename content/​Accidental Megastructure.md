@@ -1,4 +1,12 @@
-In the context of collaborative activities here in DWebYVR, the Accidental Megastructure refers to the name of a Slack group focused on [[cohousing]] / [[coliving]]. 
+---
+title: Accidental Megastructure Slack
+tags:
+- Organization
+- cohousing
+- coliving
+--- 
+
+In the context of collaborative activities here in DWebYVR, the Accidental Megastructure refers to the name of a Slack group focused on [[cohousing]] & [[coliving]]. 
 
 There is a Vancouver channel, and you can [join the Slack using this link](https://join.slack.com/share/enQtNTc3MDYyMDUzMTI2OC1lZWRjZDU5MmFjODE2OTQ5OTBiMGQzNTdhOWEyOWE2MzRlYTdiZTVjNjExMmVjY2U0NzJiZjBjOTJlMGUxMTc2).
 ## References
