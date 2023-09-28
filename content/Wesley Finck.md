@@ -13,6 +13,7 @@ Wesley is a [[Holochain]] App Developer working to help bring into existence a m
 - degrowth/post-growth/ecological economics
 - personal knowledge management and networked note-taking
 - videography
+- improv and stand-up comedy (check out [[Powerpoint Karaoke]])
 
 Contact
 * Twitter [@wesleyfinck](https://twitter.com/wesleyfinck)
